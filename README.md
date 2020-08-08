@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seutao" alt="seutao" /> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=seutao&show_icons=true" alt="seutao" />
-
 ### My Social Media 💬
 - LinkedIn: [@TaoShen](https://www.linkedin.com/in/tao-shen-897b30129/)
 - Kaggle Profile: [@SeuTao](https://www.kaggle.com/shentao)

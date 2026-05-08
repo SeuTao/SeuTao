@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tao Shen</h1>
-<h3 align="center">AI Developer / Kaggle Grandmaster</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seutao" alt="seutao" /> </p>
-
-### My Social Media 💬
-- LinkedIn: [@TaoShen](https://www.linkedin.com/in/tao-shen-897b30129/)
-- Kaggle Profile: [@SeuTao](https://www.kaggle.com/shentao)
-- Twitter: [@SeuTao](https://twitter.com/SeuTao1)
-- Email: taoshen.seu@gmail.com
+<h1 align="center">Hi there, I'm Tao Shen 👋</h1>
 
 <p align="center">
-<a href="https://twitter.com/seutao1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="seutao1" height="30" width="30" /></a>
-<a href="https://kaggle.com/shentao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shentao" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCC3O5kfihzAwpNvC_DzIohg/videos?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="seutao" height="30" width="30" /></a>
+  <b>AI Developer · Kaggle Grandmaster · Engineer · Data Scientist · Researcher</b>
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/shentao"><img src="https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Grandmaster" /></a>
+  <img src="https://komarev.com/ghpvc/?username=seutao&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tao-shen-897b30129/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/shentao" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://twitter.com/SeuTao1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://scholar.google.com/citations?user=8cprenoAAAAJ&hl=zh-CN" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:taoshen.seu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
